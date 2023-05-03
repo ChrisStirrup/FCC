@@ -59,5 +59,5 @@ def arithmetic_arranger(numbers, evaluate=False):
                     print("Error: Numbers must only contain digits.")
                     break
 
-
+#example input (for testing)
 arithmetic_arranger(["32 - 698", "3081 - 2", "45 + 43", "123 + 49", "2468 - 1234"])
