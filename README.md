@@ -29,8 +29,9 @@ Arithmatic formatter
     
     EG
       add_time("3:00 PM", "3:10", "wednesday") returns "6:10 PM, Wednesday"
-      
-    Budget App 
+     
+     
+  Budget App 
     
         This has been the most difficult so far, it does a few things.
         
