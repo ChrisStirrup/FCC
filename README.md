@@ -35,7 +35,7 @@ Arithmatic formatter
     
         This has been the most difficult so far, it does a few things.
         
-         It has a 'Class' "Category", with the following functions:
+         It has a Class - "Category", with the following functions:
         
          Deposit, and Withdraw
            Takes
@@ -64,7 +64,25 @@ Arithmatic formatter
            Takes
               Upto four categorys
            Returns
-              A bar chart showing the percentage spent by each category 
+              A bar chart showing the percentage spent by each category
+
+Polygon Area Calc
+        
+            This has two classes; a Rectangle class and a Square class as a subset.
+            
+            Rectangles 
+                
+                Can set width and height with set_width and set_height respectivly.
+                
+                Can tell you their area, perimiter, and diagonal with get_area, get_perimeter, and get_diagonal.
+                
+                Can print a depiction of themselves using '*' with get_picture
+                
+                Can return how often another square or rectangle can fit inside them
+            
+            Squares 
+                
+                have a set_side function to set their side, additionally the set_width and set_height work to set sides 
              
               
             
