@@ -86,4 +86,8 @@ Polygon Area Calc
              
               
             
-              
+Probable Hats
+
+            Has a hat class that containes baals, the balls can be drawn out of the hat with the 'draw' function, this draws x balls without replacment
+            
+            another function the 'experement' allows n balls to be drawn from a hat x times and a minimum value statment to be given (eg 2 red 1 whhite), it then return the chance of draw containg the minimum value from the sammples drawn
