@@ -80,6 +80,7 @@ Total: {}""".format(star, self.name, star, self.print_ledger, self.cumulative_to
 
 
 def create_spend_chart(classes):
+    # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
     hide_circles = 1
     if hide_circles == 1:
         category_one_circle_1 = ''
@@ -124,6 +125,7 @@ def create_spend_chart(classes):
         category_four_circle_10 = ''
 
     hide_category_names = 1
+        # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
     if hide_category_names == 1:
         category_one_name_1 = ''
         category_two_name_1 = ''
@@ -187,6 +189,7 @@ def create_spend_chart(classes):
         category_four_name_15 = ''
 
     hide_splitting = 1
+        # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
     if hide_splitting == 1:
         try:
             if classes[0]:
@@ -273,6 +276,7 @@ def create_spend_chart(classes):
             category_one_anti_loop -= 1
             category_one_loop_assignment.append('')
         if hide_circles == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_one_circle_1 = category_one_loop_assignment[0]
             category_one_circle_2 = category_one_loop_assignment[1]
             category_one_circle_3 = category_one_loop_assignment[2]
@@ -284,6 +288,7 @@ def create_spend_chart(classes):
             category_one_circle_9 = category_one_loop_assignment[8]
             category_one_circle_10 = category_one_loop_assignment[9]
         if hide_category_names == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_one_name_1 = category_one_name[0]
             category_one_name_2 = category_one_name[1]
             category_one_name_3 = category_one_name[2]
@@ -317,6 +322,7 @@ def create_spend_chart(classes):
             category_two_anti_loop -= 1
             category_two_loop_assignment.append('')
         if hide_circles == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_two_circle_1 = category_two_loop_assignment[0]
             category_two_circle_2 = category_two_loop_assignment[1]
             category_two_circle_3 = category_two_loop_assignment[2]
@@ -328,6 +334,7 @@ def create_spend_chart(classes):
             category_two_circle_9 = category_two_loop_assignment[8]
             category_two_circle_10 = category_two_loop_assignment[9]
         if hide_category_names == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_two_name_1 = category_two_name[0]
             category_two_name_2 = category_two_name[1]
             category_two_name_3 = category_two_name[2]
@@ -358,6 +365,7 @@ def create_spend_chart(classes):
             category_three_anti_loop -= 1
             category_three_loop_assignment.append('')
         if hide_circles == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_three_circle_1 = category_three_loop_assignment[0]
             category_three_circle_2 = category_three_loop_assignment[1]
             category_three_circle_3 = category_three_loop_assignment[2]
@@ -369,6 +377,7 @@ def create_spend_chart(classes):
             category_three_circle_9 = category_three_loop_assignment[8]
             category_three_circle_10 = category_three_loop_assignment[9]
         if hide_category_names == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_three_name_1 = category_three_name[0]
             category_three_name_2 = category_three_name[1]
             category_three_name_3 = category_three_name[2]
@@ -400,6 +409,7 @@ def create_spend_chart(classes):
             category_four_anti_loop -= 1
             category_four_loop_assignment.append('')
         if hide_circles == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_four_circle_1 = category_four_loop_assignment[0]
             category_four_circle_2 = category_four_loop_assignment[1]
             category_four_circle_3 = category_four_loop_assignment[2]
@@ -411,6 +421,7 @@ def create_spend_chart(classes):
             category_four_circle_9 = category_four_loop_assignment[8]
             category_four_circle_10 = category_four_loop_assignment[9]
         if hide_category_names == 1:
+                # The program I was using (pycharm) lets me hide statments putting the if here allowed me to scroll past easier, its kept here as I just uploaded my project as is when it passed the FCC checks. 
             category_four_name_1 = category_four_name[0]
             category_four_name_2 = category_four_name[1]
             category_four_name_3 = category_four_name[2]
